@@ -10,5 +10,7 @@ Sejam bem vindos a biblioteca de conhecimentos. :man::woman:
 
 - ***Introdução Python***
 
+- 
+
   
 
